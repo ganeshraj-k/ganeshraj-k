@@ -15,7 +15,7 @@ Currently working on applicant tracking systems (ATS), multi-agent AI systems, a
 📧 ganeshraj.ky@outlook.com  
 💼 LinkedIn: https://linkedin.com/in/ganeshrajk
 
-## Selected Projects
+## Some projects of mine
 
 ### LinkedIn Easy Apply Bot
 Automates parts of the LinkedIn Easy Apply workflow using browser automation and an LLM-powered question answering service to streamline job applications.
