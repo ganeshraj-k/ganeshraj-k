@@ -6,10 +6,9 @@ Currently working on applicant tracking systems (ATS), data governance for multi
 
 📄 [Resume](./GaneshRajK_AIEngineer_resume.pdf)
 
-### Looking for
-- AI Engineer
-- Software Engineer (LLM/AI)
-- Applied AI Engineer
+### If you are a recruiter or hiring manager, I’d love to connect. :
+
+I am currently looking for AI Engineer, Software Engineer (LLM / AI), Applied AI Engineer opportunities. 
 
 ### Reach me
 📧 ganeshraj.ky@outlook.com  
