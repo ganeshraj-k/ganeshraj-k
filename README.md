@@ -4,7 +4,7 @@ I'm an AI Engineer focused on building production LLM applications, RAG systems,
 
 Currently working on conversational AI, applicant tracking systems (ATS), data governance for multi-agent systems.
 
-📄 [Resume](./GaneshRajK_AIEngineer_resume.pdf)
+📄 [Resume](./GaneshRajK_AIEngineer.pdf)
 
 ### If you are a recruiter or hiring manager, I’d love to connect. :
 
